@@ -8,6 +8,7 @@ URL:            http://www.dse.nl/~dario/projects/pgoctut/
 Source0:        http://www.dse.nl/~dario/projects/pgoctut/pgoctut.pdf.lzma
 # Real:         http://www.dse.nl/~dario/projects/pgoctut/pgoctut.pdf
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
+BuildArch:      noarch
 
 %description
 PG'OCaml, by Richard W. M. Jones, provides an interface to PostgreSQL
