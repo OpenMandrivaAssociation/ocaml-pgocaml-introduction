@@ -48,3 +48,17 @@ rm -rf %{buildroot}
 %dir %{destdir}
 %{destdir}/pgoctut.pdf
 
+
+
+%changelog
+* Sat Aug 22 2009 Florent Monnier <blue_prawn@mandriva.org> 0.92-1mdv2010.0
++ Revision: 419704
+- noarch
+
+* Thu Jan 29 2009 Florent Monnier <blue_prawn@mandriva.org> 0.92-1mdv2009.1
++ Revision: 335199
+- source format
+- source format
+- import ocaml-pgocaml-introduction
+
+
