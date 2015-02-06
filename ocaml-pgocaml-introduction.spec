@@ -1,6 +1,6 @@
 Name:           ocaml-pgocaml-introduction
 Version:        0.92
-Release:        %mkrel 1
+Release:        2
 Summary:        A Brief Introduction to PG'OCaml
 License:        CC-by-sa-3.0
 Group:          Development/Other
