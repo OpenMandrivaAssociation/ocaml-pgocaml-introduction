@@ -4,7 +4,7 @@ Release:        2
 Summary:        A Brief Introduction to PG'OCaml
 License:        CC-by-sa-3.0
 Group:          Development/Other
-URL:            http://www.dse.nl/~dario/projects/pgoctut/
+URL:            https://www.dse.nl/~dario/projects/pgoctut/
 Source0:        http://www.dse.nl/~dario/projects/pgoctut/pgoctut.pdf.lzma
 # Real:         http://www.dse.nl/~dario/projects/pgoctut/pgoctut.pdf
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
